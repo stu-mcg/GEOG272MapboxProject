@@ -1,0 +1,11 @@
+https://mapbox.github.io/togeojson/
+https://amici.akaraisin.com/ui/stustrektocamp
+
+If you produce a map, I would like you to submit a short description of your process. The document should be no longer than 1 page in length, 1.5 spaced, font size 12 (you can use bullet points) and might be structured as follows:
+
+Articulate your project topic - why is it important?
+Demonstrate the steps that you took to produce the map. A simple flow diagram will suffice.
+Detail how you obtained your data.
+Describe the specific software that you used and why you chose it.
+Share some of the most significant challenges that you faced.
+Talk very briefly about lessons that you learnt through this process.
